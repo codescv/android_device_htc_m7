@@ -1,0 +1,85 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: wXQmakCiJUagZzfWWxsfKSC3HfY=
+
+Name: system/lib/libAppDataSearch.so
+SHA1-Digest: SqOwPWB4UXM2FaorvofQ7r30/es=
+
+Name: system/lib/libjni_latinime.so
+SHA1-Digest: x3GE+ObAnbS4s80LwlmPC+lWpuo=
+
+Name: system/priv-app/GoogleBackupTransport.apk
+SHA1-Digest: 95o2YSHalxLCK4dRUW0eDqfQnvE=
+
+Name: system/etc/preferred-apps/google.xml
+SHA1-Digest: jYn9qxY9UAgeUJ/kNtbBcP4VLCc=
+
+Name: system/priv-app/Phonesky.apk
+SHA1-Digest: MHW7FLn+NZO2kHGh7wjx2b1LZsU=
+
+Name: system/app/GoogleContactsSyncAdapter.apk
+SHA1-Digest: UN+iVN1kJPSVqSl+Mq6gD3zCEC4=
+
+Name: system/priv-app/GoogleOneTimeInitializer.apk
+SHA1-Digest: mrQE5eH8hdwkGVUn6x3pEyGx48Q=
+
+Name: system/etc/permissions/features.xml
+SHA1-Digest: DfInr4v3B2dCSSDL8XO3gd9lw1Y=
+
+Name: system/framework/com.google.android.maps.jar
+SHA1-Digest: l3BZgKGC+6QDDwCDy96Z5dut0EI=
+
+Name: system/priv-app/GoogleFeedback.apk
+SHA1-Digest: mVygF5y9pj8Ap8AvrquzdMiYshA=
+
+Name: system/lib/libgcastv2_base.so
+SHA1-Digest: bNh0QBddjzDuGMaCMDDTtEydA2M=
+
+Name: system/lib/libgames_rtmp_jni.so
+SHA1-Digest: oGJoMH+U7tCtyYaBfci2QYwnasM=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: d4IhUJTDFbKMkXB7hlRZAq6AcBg=
+
+Name: system/etc/permissions/com.google.android.media.effects.xml
+SHA1-Digest: j/P++0UEThlMLHb5ewoUXe96pQ4=
+
+Name: system/priv-app/GooglePartnerSetup.apk
+SHA1-Digest: //CBHB+d9ooOpKZm1mmZ6jadDTE=
+
+Name: system/priv-app/SetupWizard.apk
+SHA1-Digest: 67boCsxeqNvmqqJUHTHMMYSu60w=
+
+Name: system/priv-app/GoogleLoginService.apk
+SHA1-Digest: 9goiAPH9GoMEV1f8VjROg+N1a/c=
+
+Name: system/priv-app/PrebuiltGmsCore.apk
+SHA1-Digest: WzgP0qH/AY29vh86iu+ADV+nGrk=
+
+Name: system/etc/permissions/com.google.widevine.software.drm.xml
+SHA1-Digest: MvejKuFQO4VpexrZo29KXJ+HiE0=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CSZ7Gyg6X76HeNNSMKPZaNDGFlI=
+
+Name: system/etc/permissions/com.google.android.maps.xml
+SHA1-Digest: QaPNB5FUfwkZ5T3fG1bXJpF8pNY=
+
+Name: system/addon.d/70-gapps.sh
+SHA1-Digest: oJm16O2I3MSKc3KSjFxlpdUwih0=
+
+Name: system/framework/com.google.widevine.software.drm.jar
+SHA1-Digest: iwAYqD2m7CbkH1IKNw8fmkO85Xc=
+
+Name: system/priv-app/GoogleServicesFramework.apk
+SHA1-Digest: P9zl34Co9cLh4p+NdXblGBDxWTU=
+
+Name: system/lib/libgcastv2_support.so
+SHA1-Digest: QbTj1cHsE2tu2jm2JFNNhPaG3tw=
+
+Name: system/framework/com.google.android.media.effects.jar
+SHA1-Digest: rfseSBwxbk2RyOA4YRV+pxRxOag=
+
+Name: system/lib/libjgcastservice.so
+SHA1-Digest: cqJ0ZI5e2FkDRG8FOhQYfuJulTI=
+
