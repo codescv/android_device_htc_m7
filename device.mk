@@ -13,6 +13,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+#
+
+# my own modifications
+$(call inherit-product-if-exists, $(LOCAL_PATH)/chi/config.mk)
 
 # call the proprietary setup
 $(call inherit-product-if-exists, vendor/htc/m7/m7-vendor.mk)
@@ -22,6 +26,3 @@ $(call inherit-product, device/htc/m7-common/m7-common.mk)
 
 # prebuilt packages
 $(call inherit-product-if-exists, $(LOCAL_PATH)/prebuilt/package_select.mk)
-
-# my own modifications
-$(call inherit-product-if-exists, $(LOCAL_PATH)/chi/config.mk)
