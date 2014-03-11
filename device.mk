@@ -22,3 +22,6 @@ $(call inherit-product, device/htc/m7-common/m7-common.mk)
 
 # prebuilt packages
 $(call inherit-product-if-exists, $(LOCAL_PATH)/prebuilt/package_select.mk)
+
+# my own modifications
+$(call inherit-product-if-exists, $(LOCAL_PATH)/chi/config.mk)
