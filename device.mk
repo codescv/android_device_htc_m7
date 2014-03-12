@@ -23,6 +23,3 @@ $(call inherit-product-if-exists, vendor/htc/m7/m7-vendor.mk)
 
 # Inherit from m7-common
 $(call inherit-product, device/htc/m7-common/m7-common.mk)
-
-# prebuilt packages
-$(call inherit-product-if-exists, $(LOCAL_PATH)/prebuilt/package_select.mk)

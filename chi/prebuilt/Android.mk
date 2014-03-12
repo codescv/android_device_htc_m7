@@ -12,6 +12,7 @@ $(call include-all-so, gapps/system/lib)
 
 # use GMS apps to override AOSP ones
 $(call include-prebuilt-sys-app,Chrome.apk,gapps/overrides/Chrome.apk,Browser)
+$(call include-prebuilt-sys-app,CalendarGoogle.apk,gapps/overrides/CalendarGoogle.apk,Calendar)
 $(call include-prebuilt-sys-app,GoogleHome.apk,gapps/overrides/GoogleHome.apk,Launcher3 Trebuchet)
 $(call include-prebuilt-sys-priv-app,Velvet.apk,gapps/overrides/Velvet.apk,QuickSearchBox)
 # $(call include-prebuilt-sys-app,LatinImeGoogle.apk,gapps/overrides/LatinImeGoogle.apk,LatinIME libjni_latinime)
