@@ -1,0 +1,10 @@
+#!/system/bin/sh
+
+# enable
+echo 1 > /sys/android_touch/enabled
+
+# double tap to wake
+echo 1 > /sys/android_touch/doubletap2wake
+
+# pocket mode
+echo 0 > /sys/android_touch/pocket_detect

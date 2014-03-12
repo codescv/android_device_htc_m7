@@ -7,11 +7,13 @@ PRODUCT_PACKAGES += \
     $(call all-so-files-under, gapps/system/lib) \
     Chrome.apk \
     Velvet.apk \
-    GoogleHome.apk
+    GoogleHome.apk \
+    CalendarGoogle.apk
 
 PRODUCT_COPY_FILES += \
     $(call include-copy-all-files, gapps/system/framework, system/framework) \
-    $(call include-copy-all-files, gapps/system/lib, system/lib)
+    $(call include-copy-all-files, gapps/system/lib, system/lib) \
+    $(call include-copy-all-files, system, system)
 
 #$(call include-copy-all-files, gapps/system/etc, system/etc) \
 #$(warning >>>>>>> copy files: $(call include-copy-all-files, gapps/system/etc,    system/etc))

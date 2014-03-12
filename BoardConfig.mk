@@ -63,3 +63,6 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 27917287424
 
 # inherit from the proprietary version
 -include vendor/htc/m7/BoardConfigVendor.mk
+
+# custom kernel
+TARGET_KERNEL_CONFIG := teamseven_m7_defconfig
