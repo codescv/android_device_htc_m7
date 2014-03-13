@@ -8,3 +8,6 @@ echo 1 > /sys/android_touch/doubletap2wake
 
 # pocket mode
 echo 0 > /sys/android_touch/pocket_detect
+
+# disable blink buttons
+echo 0 > /sys/class/leds/button-backlight/blink_buttons
